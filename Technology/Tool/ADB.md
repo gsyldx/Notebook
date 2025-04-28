@@ -20,6 +20,7 @@
 | 模拟发送广播       | adb shell am broadcast -a <action>                        | --es 字符串类型参数 --ei int类型参数 --ez boolean类型参数 --el long类型的参数 --esal string类型的数据 |
 | 查看mac地址      | adb shell cat /sys/class/net/wlan0/address                |                                                                              |
 | 切换白天黑夜       | adb shell "su 0 cmd uimode night no"                      |                                                                              |
+| apk md5      | certutil -hashfile apk path MD5                           |                                                                              |
 
 - 开机广播
 adb shell am broadcast -a android.intent.action.BOOT_COMPLETED
