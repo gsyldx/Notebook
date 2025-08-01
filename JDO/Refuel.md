@@ -1,8 +1,9 @@
 ### asterix_gas（Asterix）
 [仓库地址](http://jdo-gerrit.aijidou.com/#/admin/projects/asterix_gas)
-applicationId:com.jidouauto.refule
+applicationId:
+- com.jidouauto.refule
 
-| 分支名                     |                |
+| 分支名                     | 描述             |
 | ----------------------- | -------------- |
 | develop                 | 3D             |
 | CLU3B                   | 3B             |
@@ -15,7 +16,7 @@ applicationId
 - com.jidouauto.nissan.refuel (ccs/cycle/ni+/infiniti)
 - com.jidouauto.venucia.refuel (启辰)
 
-| 分支名                   |                      |
+| 分支名                   | 描述                   |
 | --------------------- | -------------------- |
 | develop_refuel_ccs    | ccs2.0/ccs2.0+       |
 | develop_refuel_cycle  | cycle2020/cycle2020+ |
@@ -24,23 +25,26 @@ applicationId
 
 ### jidou_gas（加油通用包）
 [仓库地址](http://jdo-gerrit.aijidou.com/#/admin/projects/jidou_gas)
-applicationId:com.jidouauto.gas
+applicationId:
+- com.jidouauto.gas
 
-| 分支名            |           |
-| -------------- | --------- |
-| develop_refuel | 极豆/比亚迪/华为 |
+| 分支名            | 描述              |
+| -------------- | --------------- |
+| develop_refuel | 旧 极豆/比亚迪/华为     |
+| jdo_refuel     | 自研加油，集成 HMI SDK |
 
 ### component_gas（加油组件库）
 [仓库地址](http://jdo-gerrit.aijidou.com/#/admin/projects/component_gas)
 
-| 分支名     |     |
-| ------- | --- |
-| develop |     |
+| 分支名     | 描述            |
+| ------- | ------------- |
+| develop | v1.9.27  日产加油 |
 
 ### infiniti_gas_app（英菲尼迪）
 [仓库地址](http://jdo-gerrit.aijidou.com/#/admin/projects/infiniti_gas_app)
-applicationId:com.jidouauto.nissan.refuel
+applicationId:
+- com.jidouauto.nissan.refuel
 
-| 分支名     |     |
-| ------- | --- |
-| develop |     |
+| 分支名     | 描述   |
+| ------- | ---- |
+| develop | 开发分支 |
