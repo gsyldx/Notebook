@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technology/Tool/ADB.md",
+                "file": "Other/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ADB"
+              "title": "未命名"
             }
           }
         ]
@@ -170,10 +170,13 @@
   },
   "active": "bc7ac5243adcd95a",
   "lastOpenFiles": [
-    "Technology/Tool/Git.md",
-    "Technology/Tool/ADB.md",
-    "JDO/Car Service.md",
     "JDO/Charge.md",
+    "Other/未命名.md",
+    "Other",
+    "未命名",
+    "Technology/Tool/ADB.md",
+    "Technology/Tool/Git.md",
+    "JDO/Car Service.md",
     "JDO/Refuel.md",
     "JDO/Parking.md",
     "未命名.canvas",
@@ -203,8 +206,6 @@
     "Resource/未确认 989996.crdownload",
     "Resource",
     "新建文件夹",
-    "Technology/Java",
-    "Technology/Kotlin",
     "jdo/加油/未命名.md",
     "欢迎.md"
   ]
