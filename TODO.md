@@ -16,3 +16,10 @@ livedata的postvalue和setvalue
 协程
 动画
 内存泄漏场景
+binder
+线程安全
+内存优化
+cpu优化
+注解
+
+lateinit和by lazy
